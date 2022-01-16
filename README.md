@@ -18,7 +18,7 @@ Using Machine Learning and Neural Networks for this project, I used the features
 The number of neurons, layers, and activation functions I selected for my neural network model:
 - For my neural network model I had 2 hidden layers. My first layer had 80 neurons, the second has 30 there is also an output layer. The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
 
-![](Resources/ml1.PNG)
+![](/ml1.PNG)
 
 Was the model able to achieve the target model performance?
 - The model was not able to reach the target 75%. The accuracy for my model was 69%.
